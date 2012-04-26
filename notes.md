@@ -1,12 +1,40 @@
-Consumptions
-============
+2012-04-26
+==========
 
-Drinks
+The idea of Apache meetings is the form a community driven meetup to
+cross-pollinate ideas, code and experience.
+
+Agenda
 ------
 
-* Cassis - 2	
+The agenda is set by consensus. The topics for this meetup are listed
+below. 
 
-Diner
+* [Rave](http://rave.apache.org "Project site for rave")
+
+Rave
+----
+
+Web & Mashup platform.
+
+* Gadget
+* Not a portal
+* Stylable
+* Multiple platforms
+* Personalized
+
+### Dependencies
+
+The following Apache project are used
+
+* shindig
+* Wookie
+* OpenJPA
+* Jackrabbit
+* Tiles (and JSP's)
+* Apache DS
+
+Celix
 -----
 
-* Pork meat Sate
+[Celix](http://incubator.apache.org/celix/ "Apache site for Celix")
