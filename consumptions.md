@@ -21,11 +21,7 @@ Web & Mashup platform.
 * Not a portal
 * Stylable
 * Multiple platforms
-
-### Personalized
-
-You can pick certain widgets, but which widgets are available is set
-by an admin.
+* Personalized
 
 ### Dependencies
 
