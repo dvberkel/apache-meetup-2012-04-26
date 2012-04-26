@@ -33,3 +33,8 @@ The following Apache project are used
 * Jackrabbit
 * Tiles (and JSP's)
 * Apache DS
+
+Celix
+-----
+
+[Celix](http://incubator.apache.org/celix/ "Apache site for Celix")
