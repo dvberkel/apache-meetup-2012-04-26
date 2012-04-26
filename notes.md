@@ -38,3 +38,13 @@ Celix
 -----
 
 [Celix](http://incubator.apache.org/celix/ "Apache site for Celix")
+
+Diner
+-----
+
+Diner was late, but good.
+
+Discussion
+----------
+
+The Apache way
