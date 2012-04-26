@@ -9,3 +9,31 @@ Agenda
 
 The agenda is set by consensus. The topics for this meetup are listed
 below. 
+
+* [Rave](http://rave.apache.org "Project site for rave")
+
+Rave
+----
+
+Web & Mashup platform.
+
+* Gadget
+* Not a portal
+* Stylable
+* Multiple platforms
+
+### Personalized
+
+You can pick certain widgets, but which widgets are available is set
+by an admin.
+
+### Dependencies
+
+The following Apache project are used
+
+* shindig
+* Wookie
+* OpenJPA
+* Jackrabbit
+* Tiles (and JSP's)
+* Apache DS
