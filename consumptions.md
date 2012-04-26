@@ -4,7 +4,7 @@ Consumptions
 Drinks
 ------
 
-* Cassis - 2	
+* Cassis - 3
 
 Diner
 -----
